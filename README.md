@@ -23,7 +23,7 @@
 - 🌍 <strong>Life Expectancy Prediction</strong>  
   - 📌 Developed a machine learning model to predict life expectancy based on health, economic, and social factors.  
   - 🔍 Applied regression models, EDA, and hyperparameter tuning.  
-  - 🔗 [GitHub Repository](https://github.com/shr130/Life-Expectancy-Prediction)  
+  - 🔗 Live Demo: [Life Expectancy Prediction App](https://life-expectancy--prediction.streamlit.app)
 
 ---
 
